@@ -1,5 +1,5 @@
 # SK-View-Views-ViewGroup2__JVm
-Latihan Pemrograman Java (Mobile Android) - View, Views dan ViewGroup (Bagian 2)<br>
+Latihan Pemrograman Java (Mobile Android) - View, Views dan ViewGroup (Bagian 2).<br>
 Materi by Dicoding<br><br>
 <img src="https://github.com/RizkyKhapidsyah/SK-View-Views-ViewGroup2__JVm/blob/master/app/result/Screenshot_1646545364.png" height=310px width=180px>
 <img src="https://github.com/RizkyKhapidsyah/SK-View-Views-ViewGroup2__JVm/blob/master/app/result/Screenshot_1646545373.png" height=310px width=180px>
